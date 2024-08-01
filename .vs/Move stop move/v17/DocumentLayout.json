@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Vinh Anh\\Move stop move\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160E2BF6-D47F-F1F0-CF3D-BE1EB602AD7B}|Assembly-CSharp.csproj|g:\\vinh anh\\move stop move\\assets\\scripts\\zc scripts\\playercontrollerzc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160E2BF6-D47F-F1F0-CF3D-BE1EB602AD7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zc scripts\\playercontrollerzc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160E2BF6-D47F-F1F0-CF3D-BE1EB602AD7B}|Assembly-CSharp.csproj|g:\\vinh anh\\move stop move\\assets\\scripts\\zc scripts\\playertouchcontrollerzc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160E2BF6-D47F-F1F0-CF3D-BE1EB602AD7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zc scripts\\playertouchcontrollerzc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160E2BF6-D47F-F1F0-CF3D-BE1EB602AD7B}|Assembly-CSharp.csproj|G:\\Vinh Anh\\Move stop move\\assets\\scripts\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160E2BF6-D47F-F1F0-CF3D-BE1EB602AD7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160E2BF6-D47F-F1F0-CF3D-BE1EB602AD7B}|Assembly-CSharp.csproj|G:\\Vinh Anh\\Move stop move\\assets\\scripts\\ingameuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160E2BF6-D47F-F1F0-CF3D-BE1EB602AD7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ingameuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160E2BF6-D47F-F1F0-CF3D-BE1EB602AD7B}|Assembly-CSharp.csproj|G:\\Vinh Anh\\Move stop move\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160E2BF6-D47F-F1F0-CF3D-BE1EB602AD7B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerZC.cs",
+              "DocumentMoniker": "G:\\Vinh Anh\\Move stop move\\Assets\\Scripts\\ZC Scripts\\PlayerControllerZC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZC Scripts\\PlayerControllerZC.cs",
+              "ToolTip": "G:\\Vinh Anh\\Move stop move\\Assets\\Scripts\\ZC Scripts\\PlayerControllerZC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZC Scripts\\PlayerControllerZC.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAuwIEAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:27:31.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerTouchControllerZC.cs",
+              "DocumentMoniker": "G:\\Vinh Anh\\Move stop move\\Assets\\Scripts\\ZC Scripts\\PlayerTouchControllerZC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZC Scripts\\PlayerTouchControllerZC.cs",
+              "ToolTip": "G:\\Vinh Anh\\Move stop move\\Assets\\Scripts\\ZC Scripts\\PlayerTouchControllerZC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZC Scripts\\PlayerTouchControllerZC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:36:44.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InGameUIController.cs",
+              "DocumentMoniker": "G:\\Vinh Anh\\Move stop move\\Assets\\Scripts\\InGameUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InGameUIController.cs",
+              "ToolTip": "G:\\Vinh Anh\\Move stop move\\Assets\\Scripts\\InGameUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InGameUIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:45:15.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "G:\\Vinh Anh\\Move stop move\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
+              "ToolTip": "G:\\Vinh Anh\\Move stop move\\Assets\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelManager.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwEcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:44:03.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "G:\\Vinh Anh\\Move stop move\\Assets\\Scripts\\SettingController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingController.cs",
+              "ToolTip": "G:\\Vinh Anh\\Move stop move\\Assets\\Scripts\\SettingController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:33:25.499Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
